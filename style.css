@@ -1,0 +1,79 @@
+/*   
+Theme Name: Trail Scout Website
+Theme URI: 
+Description: A style-free theme to get you started on an HTML5-based Wordpress theme of your own.
+Author: Me
+Author URI: 
+Version: 1
+*/ 
+
+
+.navbar{
+    font-size:1em /* has to be less than 1em/10px */
+}
+
+.home-bg{
+    background: url(images/home-bg.jpg);
+    background-size: cover;
+    height: 90vh;
+}
+
+    .tag{
+        text-align: center;
+        margin-top: 30%;
+    }
+
+    .tag h1{
+        font-family: 'Rubik Moonrocks', sans-serif;
+        font-size: 1000;
+    }
+
+.home-intro{
+    padding: 2%;
+    text-align: center;
+}
+
+    .home-intro h2{
+        font-size: 2.4em;
+    }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.trail-map{
+    background: url(images/Untitled_Artwork\ 4.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+    .trails{
+        padding: 2%;
+    }
+
+.trail-bg{
+    background-image: url(images/Untitled_Artwork.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
+    .trail-info{
+        color: black;
+    }
+
+    .blocker{
+        width: 133px;
+        height: 10px;
+        background-color: purple;
+        margin: auto;
+        margin-bottom: 40px;
+
+    }
+
+.species-bg{
+    background-image: url(images/Untitled_Artwork\ 3\ 1.png);
+    background-size: cover;
+    height: 600px;
+}
