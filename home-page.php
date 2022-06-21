@@ -1,6 +1,6 @@
 <?php
     /*
-    Template Name: Home page
+    Template Name: Trail Scout Home page
     */
     ?>
 <?php get_header();?>   <!--  Tells WordPress to include header.php -->
