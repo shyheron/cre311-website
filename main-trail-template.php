@@ -1,9 +1,9 @@
 <?php
     /*
-    Template Name: CV
+    Template Name: Main trail
     */
     ?>
-<?php get_header(); /* Tells WordPress to include header.php */ ?>
+<?php require_once('main-trail-header.php'); ?>
 
 <!-- TRAIL MAP AREAS -->
 <section>
