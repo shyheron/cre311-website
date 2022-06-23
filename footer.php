@@ -12,7 +12,8 @@ endif; ?>
                     <div class="col-md-6 ">
                         <!-- <p>Terms and Conditions</p> -->
                         <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-right') ) : 
-          </div><!-- row-->
+endif; ?>
+ </div><!-- row-->
                 </div><!-- container -->
             </div><!-- container-fluid-->
         
