@@ -32,21 +32,6 @@
                     <p class="text-center" ><?php the_field('broomespecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('broomespecies3description'); ?></p>
                 </div>
-                <div class="col-md-4">
-                  <img class="img-fluid" alt=“finch” src="<?php the_field('broomespecies4image');?>">
-                    <p class="text-center" ><?php the_field('broomespecies4name'); ?></p>
-                    <p class="text-center" ><?php the_field('broomespecies4description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“leather-back-turtle” src="<?php the_field('broomespecies5image');?>">
-                    <p class="text-center" ><?php the_field('broomespecies5name'); ?></p>
-                    <p class="text-center" ><?php the_field('broomespecies5description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“mangrove-crab” src="<?php the_field('broomespecies6image');?>">
-                    <p class="text-center" ><?php the_field('broomespecies6name'); ?></p>
-                    <p class="text-center" ><?php the_field('broomespecies6description'); ?></p>
-              </div>
             </div>
           </section>
 
