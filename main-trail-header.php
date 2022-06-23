@@ -67,8 +67,8 @@
       <div class="row text-left"><!--  a row that gives us access to the BS columns-->
                     
                     <div class="col-md-4 trail-map-description">
-                      <h1 class="text-center"><?php the_field('titleformaintrail'); ?></h1>
-                      <p class="text-center" ><?php the_field('paragraphformaintrailintro'); ?></p>
+                      <h1 class="text-left"><?php the_field('titleformaintrail'); ?></h1>
+                      <p class="text-left" ><?php the_field('paragraphformaintrailintro'); ?></p>
                     </div>
                     <div class="col-md-8">
                     <img class="img-fluid" alt=“portait” src="<?php the_field('mapimage');?>">
