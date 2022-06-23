@@ -9,58 +9,111 @@ Version: 1
 
 
 .navbar{
-    font-size:1em /* has to be less than 1em/10px */
+    font-size:1em; /* has to be less than 1em/10px */
 }
+
+    .navbar-dark .navbar-nav .nav-link {
+        color: black;
+    }    
 
 .home-bg{
     background: url(images/home-bg.jpg);
     background-size: cover;
-    height: 90vh;
+    height: 95vh;
 }
 
     .tag{
         text-align: center;
-        margin-top: 30%;
+        margin-top: 20%;
     }
 
     .tag h1{
-        font-family: 'Rubik Moonrocks', sans-serif;
-        font-size: 1000;
+        font-family: 'MADE Kenfolg', sans-serif;
+        font-weight: 800;
+        font-size: 4.5em;
+        color: #605b5b;
     }
 
 .home-intro{
     padding: 2%;
     text-align: center;
+    background-color: #fffcf5;
+    background-size: cover;
 }
 
     .home-intro h2{
-        font-size: 2.4em;
+        font-size: 2em;
+        font-family: 'MADE Kenfolg', sans-serif;
+        color: #0f375e;
     }
+
+    .home-intro p{
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        color: #0f375e;
+    }
+
+.button{
+    size: 5%;
+}
 
 footer{
     background-color: black;
     color: white;
     text-align: center;
+    padding-top: 1%;
+    font-family: 'Basis Grotesque Pro', sans-serif;
+    color: white;
 }
 
 .trail-map{
-    background: url(images/Untitled_Artwork\ 4.jpg);
+    background-color: #fffcf5;
     background-size: cover;
-    height: 600px;
 }
 
+    .trail-map h1{
+        font-family: 'MADE Kenfolg', sans-serif;
+        color: #0f375e;
+    }
+
+    .trail-map p{
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        color: #0f375e;
+    }
+
+    .trail-map-description{
+        padding-top: 10%;
+    }
+
+    .trail-map-description p {
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        color: #0f375e;
+        padding-left: 5%;
+    }
+
     .trails{
-        padding: 2%;
+        background-color: #fffcf5;
+    }
+
+    .trailsub{
+        padding-top: 3%;
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        font-size: large;
+        color: #0f375e;
+    }
+
+    .trailimg {
+        padding-bottom: 1.5%;
     }
 
 .trail-bg{
-    background-image: url(images/Untitled_Artwork.jpg);
+    background-color: #fffcf5;
     background-size: cover;
-    height: 40vh;
 }
 
     .trail-info{
         color: black;
+        background-color: #fffcf5;
+        padding: 2%;
     }
 
     .blocker{
@@ -69,11 +122,14 @@ footer{
         background-color: purple;
         margin: auto;
         margin-bottom: 40px;
+    }
 
+    .trail-species{
+        background-color: #fffcf5;
+        padding: 2%;  
     }
 
 .species-bg{
-    background-image: url(images/Untitled_Artwork\ 3\ 1.png);
+    background-color: #fffcf5;
     background-size: cover;
-    height: 600px;
 }
