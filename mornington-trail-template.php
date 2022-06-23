@@ -7,7 +7,7 @@
 
 <section class="container-fluid trail-info">
         <div class="container text-center">
-          <h2 class="text-left"><?php the_field('titleformorningtonactivities'); ?></h2>
+          <h2 class="text-center"><?php the_field('titleformorningtonactivities'); ?></h2>
           <p class="text-center" ><?php the_field('paragraphformorningtonactivities'); ?></p>
         </div>
       </section>
