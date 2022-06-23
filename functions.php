@@ -20,7 +20,7 @@ function register_navwalker(){
   
 
 register_nav_menus( array(
-    'primary' => __( 'Primary Menu', 'top-menu' ),
+    'primary' => __( 'Primary Menu', 'top-menu-v2' ),
 ) );
 
 
