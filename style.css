@@ -43,8 +43,10 @@ Version: 1
 
     .home-intro h2{
         font-size: 2em;
-        font-family: 'MADE Kenfolg', sans-serif;
-        color: #0f375e;
+        font-family: 'sacramento', sans-serif;
+        color: lightcoral;
+        font-size: 4em;
+        font-weight: 800;
     }
 
     .home-intro p{
@@ -111,22 +113,67 @@ footer{
 }
 
     .trail-info{
-        color: black;
+        background: url(images/bg1.jpg);
+        background-size: cover;
         background-color: #fffcf5;
         padding: 2%;
     }
 
-    .blocker{
+    .trail-info h2{
+        font-family: 'MADE Kenfolg', sans-serif;
+        color: #0f375e;
+    }
+
+    .trail-info p{
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        color: #0f375e;
+    }
+
+    /* .blocker{
         width: 133px;
         height: 10px;
         background-color: purple;
         margin: auto;
         margin-bottom: 40px;
-    }
+    } */
 
     .trail-species{
         background-color: #fffcf5;
         padding: 2%;  
+    }
+
+    .trail-species h2{
+        font-family: 'MADE Kenfolg', sans-serif;
+        color: #0f375e; 
+    }
+
+    .trail-species .more-title{
+        font-family: 'sacramento', sans-serif;
+        font-size: xx-large;
+        font-weight: 800;
+        color: #0f375e;
+        margin-bottom: 0%;
+    }
+
+    .species-description{
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        color: #0f375e;
+        padding-bottom: 3%;
+    }
+
+    .trailname{
+        padding-top: 10%;
+    }
+
+    .trailname h1{
+        font-family: 'MADE Kenfolg', sans-serif;
+        color: #0f375e;
+    }
+
+    .trailname p{
+        font-family: 'Basis Grotesque Pro', sans-serif;
+        color: #0f375e;
+        padding-left: 5%;
     }
 
 .species-bg{
