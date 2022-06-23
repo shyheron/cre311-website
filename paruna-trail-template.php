@@ -32,21 +32,6 @@
                     <p class="text-center" ><?php the_field('parunaspecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('parunaspecies3description'); ?></p>
                 </div>
-                <div class="col-md-4">
-                  <img class="img-fluid" alt=“finch” src="<?php the_field('parunaspecies4image');?>">
-                    <p class="text-center" ><?php the_field('parunaspecies4name'); ?></p>
-                    <p class="text-center" ><?php the_field('parunaspecies4description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“leather-back-turtle” src="<?php the_field('parunaspecies5image');?>">
-                    <p class="text-center" ><?php the_field('parunaspecies5name'); ?></p>
-                    <p class="text-center" ><?php the_field('parunaspecies5description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“mangrove-crab” src="<?php the_field('parunaspecies6image');?>">
-                    <p class="text-center" ><?php the_field('parunaspecies6name'); ?></p>
-                    <p class="text-center" ><?php the_field('parunaspecies6description'); ?></p>
-              </div>
             </div>
           </section>
 
