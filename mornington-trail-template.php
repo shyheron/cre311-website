@@ -32,21 +32,6 @@
                     <p class="text-center" ><?php the_field('morningtonspecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('morningtonspecies3description'); ?></p>
                 </div>
-                <div class="col-md-4">
-                  <img class="img-fluid" alt=“finch” src="<?php the_field('morningtonspecies4image');?>">
-                    <p class="text-center" ><?php the_field('morningtonspecies4name'); ?></p>
-                    <p class="text-center" ><?php the_field('morningtonspecies4description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“leather-back-turtle” src="<?php the_field('morningtonspecies5image');?>">
-                    <p class="text-center" ><?php the_field('morningtonspecies5name'); ?></p>
-                    <p class="text-center" ><?php the_field('morningtonspecies5description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“mangrove-crab” src="<?php the_field('morningtonspecies6image');?>">
-                    <p class="text-center" ><?php the_field('morningtonspecies6name'); ?></p>
-                    <p class="text-center" ><?php the_field('morningtonspecies6description'); ?></p>
-              </div>
             </div>
           </section>
 
