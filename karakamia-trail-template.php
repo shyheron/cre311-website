@@ -32,21 +32,6 @@
                     <p class="text-center" ><?php the_field('karakamiaspecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('karakamiaspecies3description'); ?></p>
                 </div>
-                <div class="col-md-4">
-                  <img class="img-fluid" alt=“finch” src="<?php the_field('karakamiaspecies4image');?>">
-                    <p class="text-center" ><?php the_field('karakamiaspecies4name'); ?></p>
-                    <p class="text-center" ><?php the_field('karakamiaspecies4description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“leather-back-turtle” src="<?php the_field('karakamiaspecies5image');?>">
-                    <p class="text-center" ><?php the_field('karakamiaspecies5name'); ?></p>
-                    <p class="text-center" ><?php the_field('karakamiaspecies5description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“mangrove-crab” src="<?php the_field('karakamiaspecies6image');?>">
-                    <p class="text-center" ><?php the_field('karakamiaspecies6name'); ?></p>
-                    <p class="text-center" ><?php the_field('karakamiaspecies6description'); ?></p>
-              </div>
             </div>
           </section>
 
