@@ -32,21 +32,6 @@
                     <p class="text-center" ><?php the_field('charnleyspecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('charnleyspecies3description'); ?></p>
                 </div>
-                <div class="col-md-4">
-                  <img class="img-fluid" alt=“finch” src="<?php the_field('charnleyspecies4image');?>">
-                    <p class="text-center" ><?php the_field('charnleyspecies4name'); ?></p>
-                    <p class="text-center" ><?php the_field('charnleyspecies4description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“leather-back-turtle” src="<?php the_field('charnleyspecies5image');?>">
-                    <p class="text-center" ><?php the_field('charnleyspecies5name'); ?></p>
-                    <p class="text-center" ><?php the_field('charnleyspecies5description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“mangrove-crab” src="<?php the_field('charnleyspecies6image');?>">
-                    <p class="text-center" ><?php the_field('charnleyspecies6name'); ?></p>
-                    <p class="text-center" ><?php the_field('charnleyspecies6description'); ?></p>
-              </div>
             </div>
           </section>
 
