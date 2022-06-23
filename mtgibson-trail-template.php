@@ -32,21 +32,6 @@
                     <p class="text-center" ><?php the_field('mtgibsonspecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('mtgibsonspecies3description'); ?></p>
                 </div>
-                <div class="col-md-4">
-                  <img class="img-fluid" alt=“finch” src="<?php the_field('mtgibsonspecies4image');?>">
-                    <p class="text-center" ><?php the_field('mtgibsonspecies4name'); ?></p>
-                    <p class="text-center" ><?php the_field('mtgibsonspecies4description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“leather-back-turtle” src="<?php the_field('mtgibsonspecies5image');?>">
-                    <p class="text-center" ><?php the_field('mtgibsonspecies5name'); ?></p>
-                    <p class="text-center" ><?php the_field('mtgibsonspecies5description'); ?></p>
-              </div>
-              <div class="col-md-4">
-                  <img class="img-fluid" alt=“mangrove-crab” src="<?php the_field('mtgibsonspecies6image');?>">
-                    <p class="text-center" ><?php the_field('mtgibsonspecies6name'); ?></p>
-                    <p class="text-center" ><?php the_field('mtgibsonspecies6description'); ?></p>
-              </div>
             </div>
           </section>
 
