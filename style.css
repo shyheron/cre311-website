@@ -31,7 +31,7 @@ Version: 1
         font-family: 'MADE Kenfolg', sans-serif;
         font-weight: 800;
         font-size: 4.5em;
-        color: #605b5b;
+        color: #312929;
     }
 
 .home-intro{
@@ -59,8 +59,8 @@ Version: 1
 }
 
 footer{
-    background-color: black;
-    color: white;
+    background: url(images/footer.jpg);
+    background-size: cover;
     text-align: center;
     padding-top: 1%;
     font-family: 'Basis Grotesque Pro', sans-serif;
@@ -89,7 +89,6 @@ footer{
     .trail-map-description p {
         font-family: 'Basis Grotesque Pro', sans-serif;
         color: #0f375e;
-        padding-left: 5%;
     }
 
     .trails{
@@ -173,7 +172,6 @@ footer{
     .trailname p{
         font-family: 'Basis Grotesque Pro', sans-serif;
         color: #0f375e;
-        padding-left: 5%;
     }
 
 .species-bg{
