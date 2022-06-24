@@ -16,6 +16,11 @@ Version: 1
         color: black;
     }    
 
+    .logo{
+        max-width: 15vh;
+        height: auto;
+    }
+
 .home-bg{
     background: url(images/home-bg.jpg);
     background-size: cover;
