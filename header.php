@@ -67,7 +67,7 @@ wp_nav_menu( array(
       </nav>
 
         <div class="container tag"><!-- div that holds the content in the middle of the page-->
-                  <h1> TRAIL SCOUT </h1><!--  the main tag line-->
+         <h1><?php the_field('webname'); ?></h1><!--  the main tag line-->
                   </div> <!-- tag -->
           </div><!-- container-->
           
