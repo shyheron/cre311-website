@@ -41,7 +41,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-md navbar-dark">
         <!-- Brand -->
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="http://206.189.45.97/~mesh21/sub3/">TrailScout</a>
       
         <!-- Toggler/collapsibe Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -52,13 +52,7 @@
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
+              <a class="nav-link" href="http://206.189.45.97/~mesh21/sub3/trail-scout-main-trail-page/">Trails</a>
             </li>
           </ul>
         </div>
