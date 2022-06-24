@@ -32,6 +32,12 @@
                     <p class="text-center" ><?php the_field('broomespecies3name'); ?></p>
                     <p class="text-center" ><?php the_field('broomespecies3description'); ?></p>
                 </div>
+                <div class="col-md-4">
+                    <img class="img-fluid" alt=“dugong” src="<?php the_field('broomespecies4image');?>">
+                    <p class="text-center" ><?php the_field('broomespecies4name'); ?></p>
+                    <p class="text-center" ><?php the_field('broomespecies4description'); ?></p>
+                </div>
+
             </div>
           </section>
 
